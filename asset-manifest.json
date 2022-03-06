@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Sip-n-Eat/static/css/main.54875d1c.chunk.css",
+    "main.js": "/Sip-n-Eat/static/js/main.2909614e.chunk.js",
+    "main.js.map": "/Sip-n-Eat/static/js/main.2909614e.chunk.js.map",
+    "runtime-main.js": "/Sip-n-Eat/static/js/runtime-main.b86071b6.js",
+    "runtime-main.js.map": "/Sip-n-Eat/static/js/runtime-main.b86071b6.js.map",
+    "static/js/2.fd44fafb.chunk.js": "/Sip-n-Eat/static/js/2.fd44fafb.chunk.js",
+    "static/js/2.fd44fafb.chunk.js.map": "/Sip-n-Eat/static/js/2.fd44fafb.chunk.js.map",
+    "index.html": "/Sip-n-Eat/index.html",
+    "static/css/main.54875d1c.chunk.css.map": "/Sip-n-Eat/static/css/main.54875d1c.chunk.css.map",
+    "static/js/2.fd44fafb.chunk.js.LICENSE.txt": "/Sip-n-Eat/static/js/2.fd44fafb.chunk.js.LICENSE.txt",
+    "static/media/Food Header.acbbf808.jpg": "/Sip-n-Eat/static/media/Food Header.acbbf808.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b86071b6.js",
+    "static/js/2.fd44fafb.chunk.js",
+    "static/css/main.54875d1c.chunk.css",
+    "static/js/main.2909614e.chunk.js"
+  ]
+}
